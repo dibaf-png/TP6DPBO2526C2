@@ -59,7 +59,7 @@ Pada program ini terdapat **7 class utama** yang saling mendukung, yaitu:
 
 # Dokumentasi Gameplay
 
-<video src="https://github.com/user-attachments/assets/27c45077-6004-4706-87e0-b3696afe4d13" controls autoplay loop muted width="360">
+<video src="https://github.com/user-attachments/assets/27c45077-6004-4706-87e0-b3696afe4d13" controls width="360">
   Your browser does not support the video tag.
 </video>
 
